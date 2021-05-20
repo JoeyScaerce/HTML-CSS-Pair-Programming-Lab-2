@@ -1,0 +1,99 @@
+body {
+    /* margin: 50% 0 50%; */
+    width: 100%;
+    height: 100%;
+}
+
+form {
+    width: 45%;
+    margin-left: 25%;
+    background-color: rgb(156, 188, 44);
+    border-radius: 1%;
+    border: hidden;
+}
+
+legend {
+    font-weight: bold;
+    font-size: 24px;
+    padding-top: 25px;
+    padding-left: 3px;
+}
+
+fieldset {
+    border: 0;
+}
+
+label {
+    font-size: 20px;
+}
+
+input {
+    font-style: italic;
+    border: 0;
+    font-size: 17px;
+    border-radius: 2px;
+    /* padding-left: 25px; */
+}
+
+div {
+    padding: 15px;
+    margin: 5px;
+    border: solid rgb(227, 235, 195);
+    background-color: rgb(185, 207, 107);
+    border-radius: 5px;
+}
+
+#address label{
+    float: left;
+}
+
+#name, #email, #phone{
+    margin-left: 175px;
+    width: 300px;
+    height: 25px;
+    border: hidden;
+    border-radius: 3px;
+}
+
+#add {
+    margin-left: 165px;
+    border: hidden;
+    border-radius: 3px;
+    width: 300px;
+}
+
+#post{
+    margin-left: 152px;
+    width: 300px;
+    height: 25px;
+    border: hidden;
+    border-radius: 3px;
+}
+
+#CN, #sc, #cardName {
+    margin-left: 124px;
+    width: 300px;
+    height: 25px;
+    border: hidden;
+    border-radius: 3px;
+}
+
+#sub {
+    font-size: 30px;
+    background-color: rgb(56, 67, 19);
+    color: white;
+    margin-bottom: 25px;
+    padding: 10px 25px;
+    border: hidden;
+    border-radius: 50px;
+}
+
+#Select input{
+    margin-top: 15px;
+    /* padding: 100px 100px; */
+    margin-left: 42px;
+}
+
+#sub {
+    margin-left: 42%;
+}
